@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## About me
+- Engineering @ University of Waterloo
+- Backend Engineer / SWE @ ecobee
+
 <!--
 **balgaurav/balgaurav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
